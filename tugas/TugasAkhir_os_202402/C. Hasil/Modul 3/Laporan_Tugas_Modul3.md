@@ -56,7 +56,7 @@ Parent reads: B
 ```
 
 📷 Screenshot hasil pengujian:  
-![Hasil cowtest dan shmtest](./modul3.png)
+![Hasil cowtest dan shmtest](.screnshoot/modul3.png)
 
 ---
 
