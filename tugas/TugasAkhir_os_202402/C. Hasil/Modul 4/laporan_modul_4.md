@@ -68,10 +68,8 @@ Write blocked as expected
 ```
 
 Jika ada screenshot:
-
-```
 ### 📸 screenshoots:
-![hasil shmtest_dan_chmodtest](./screnshoot/modul4.png)
+![hasil shmtest dan chmodtest](./screnshoot/modul4.png)
 ```
 
 ---
