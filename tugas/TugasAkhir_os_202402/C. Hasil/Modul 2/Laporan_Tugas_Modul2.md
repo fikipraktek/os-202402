@@ -47,7 +47,7 @@ Parent selesai
 
 📷 Screenshot hasil pengujian:  
 ### 📸 screenshoots:
-(./screnshoot/modul2.png)
+hasil_output_ptest.png(./screnshoot/modul2.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
