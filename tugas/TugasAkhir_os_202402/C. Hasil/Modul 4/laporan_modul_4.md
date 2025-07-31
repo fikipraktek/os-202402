@@ -70,7 +70,8 @@ Write blocked as expected
 Jika ada screenshot:
 
 ```
-![hasil cowtest](./scrensho0t/modul4.png)
+### 📸 screenshoots:
+![hasil shmtest_dan_chmodtest](./screnshoot/modul4.png)
 ```
 
 ---
