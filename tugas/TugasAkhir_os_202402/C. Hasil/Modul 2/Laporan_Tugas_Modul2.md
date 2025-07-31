@@ -46,8 +46,8 @@ Parent selesai
 ```
 
 📷 Screenshot hasil pengujian:  
-![Hasil ptest modul 2](./modul2.png)
-
+### 📸 screenshoots:
+(./screnshoot/modul2.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
