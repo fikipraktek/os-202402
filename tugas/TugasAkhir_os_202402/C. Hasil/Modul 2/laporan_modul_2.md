@@ -2,8 +2,8 @@
 
 **Mata Kuliah**: Sistem Operasi
 **Semester**: Genap / Tahun Ajaran 2024–2025
-**Nama**: `<Nama Lengkap>`
-**NIM**: `<Nomor Induk Mahasiswa>`
+**Nama**: `fikianto`
+**NIM**: `240202899`
 **Modul yang Dikerjakan**:
 `(Contoh: Modul 1 – System Call dan Instrumentasi Kernel)`
 
