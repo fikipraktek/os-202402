@@ -64,7 +64,7 @@ Read Count Setelah: 13
 
 📷 Screenshot (dari XV6 terminal):  
 ### 📸 screenshoots:
-![hasil ptest dan rtest](.//ptest_rtest_hello-output.png)
+![hasil ptest dan rtest](./screnshoot/modul1ter.png)
 
 ---
 
